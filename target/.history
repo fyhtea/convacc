@@ -1,0 +1,1 @@
+testOnly gcd.GCDTester -- -z Basic
